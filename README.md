@@ -20,7 +20,7 @@ I have successfully SSHed into the server.
 
 ### 3. Create a new user named grader
 
-I've created a new user called grader using command `sudo adduser grader`
+I've created a new user called grader using command `sudo adduser grader` and set a secure password for it.
 
 ### 4. Give the grader the permission to sudo
 
